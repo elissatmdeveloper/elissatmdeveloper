@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, me llamo Elissa Torres</h1>
 <h3 align="center">Soy desarrolladora de aplicaciones web Full Stack en la provincia de Barcelona</h3>
 
-- 🔭 I’m currently working on **Full Stack Developer como autónoma**
+- 🔭 Actualmente estoy trabajando de **Full Stack Developer como autónoma**
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript, jQuery, PHP, Responsive Web Design, MySQL, Java, Git**
+- 💬 Conocimientos **HTML5, CSS3, JavaScript, jQuery, PHP, Responsive Web Design, MySQL, Java, Git**
 
-- 📫 How to reach me **elissa.tm.developer@gmail.com**
+- 📫 Puedes contactarme en **elissa.tm.developer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

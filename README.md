@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, me llamo Elissa Torres</h1>
 <h3 align="center">Soy desarrolladora de aplicaciones web Full Stack en la provincia de Barcelona</h3>
 
-- 🔭 Actualmente estoy trabajando de **Full Stack Developer como autónoma**
+- 🔭 Actualmente estoy trabajando de **Full Stack Developer**
 
-- 💬 Conocimientos **HTML5, CSS3, JavaScript, jQuery, PHP, Responsive Web Design, MySQL, Java, Git**
+- 💬 Conocimientos **HTML5, CSS3, JavaScript, jQuery, PHP, .NET, Responsive Web Design, MySQL, SQL Server, Java, Git**
 
 - 📫 Puedes contactarme en **elissa.tm.developer@gmail.com**
 
